@@ -21,7 +21,7 @@ Se il veicolo dovesse trovarsi parcheggiato in una strada che sta per essere pul
 
 2) è possibile visualizzare nella mappa dove sono stati parcheggiati i veicoli e, cliccando sul marker, raggiungere tale posizione sfruttando il navigatore di google maps;
 
-3) è possibile consultare il calendario di pulizia di qualsiasi via.
+3) è possibile consultare la data di pulizia di qualsiasi via.
 
 ## Installazione
 
