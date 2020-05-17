@@ -4,7 +4,7 @@
 
 ## Descrizione
 
-App che consente agli automobilisti di Cagliari di ricevere degli avvisi quando la loro auto è a rischio rimozione.
+App Android (nativa) che consente agli automobilisti di Cagliari di ricevere degli avvisi quando la loro auto è a rischio rimozione.
 
 ## Utilizzo base
 
